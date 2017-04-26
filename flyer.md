@@ -11,13 +11,13 @@ This also gives you a degree of separation from your personal identity, which is
 You can also decide whether you want your union email address to be on your various devices. A lot of people don't want all their union emails to come to their phone constantly and prefer to catch up on emails when they feel comfortable and able.
 
 Some alternative email services that you might consider:
-[Posteo](https://posteo.de/en)  (Paid service)
-[Proton Mail](https://protonmail.com/) (Paid service with free tier)
-[RiseUp](https://riseup.net/en)  (Donations)
-[Espiv](https://espiv.net/en/) (Donations)
-[Autistici](https://www.autistici.org/)  (Donations)
-[Mailbox](https://mailbox.org/en/)  (Paid service)
-[Aktivix](https://aktivix.org/)  (Donations)
+*[Posteo](https://posteo.de/en)  (Paid service)
+*[Proton Mail](https://protonmail.com/) (Paid service with free tier)
+*[RiseUp](https://riseup.net/en)  (Donations)
+*[Espiv](https://espiv.net/en/) (Donations)
+*[Autistici](https://www.autistici.org/)  (Donations)
+*[Mailbox](https://mailbox.org/en/)  (Paid service)
+*[Aktivix](https://aktivix.org/)  (Donations)
 
 You can also request a iww.org.uk email. We recommend that you use [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)  to access your IWW email as the webmail we currently have sucks.
 
@@ -28,7 +28,7 @@ Further information can be found [here](https://docs.webarch.net/wiki/Email).
 ### Email For The Win
 Once you have your email account setup in Thunderbird you can start using mails filters to automatically sort your incoming emails into different folders based on a specific criteria.
 
-The [https://support.mozilla.org/en-US/kb/organize-your-messages-using-filters documentation] for this process is kind of crappy but you can get started by going to Tools > Message Filters in the menu and create a new filter.
+The [documentation](https://support.mozilla.org/en-US/kb/organize-your-messages-using-filters) for this process is kind of crappy but you can get started by going to Tools > Message Filters in the menu and create a new filter.
 
 
 ### Moving Beyond Email
@@ -54,9 +54,9 @@ There are also apps available for a variety of platforms including Android and i
 Hopefully this has given you some tools for improving your comms setup. There are many resources out there where you can learn more and become a kick ass Industrial Worker of the World Wide Web!
 
 Check out these sites for further info about tools for increasing your privacy and security:
- [Surveillance Self Defence](https://ssd.eff.org/en)
- [Prism Break](https://prism-break.org/en/)
- [Tor Project](https://www.torproject.org/)
-[Queerzone3000](https://queerzone3000.net/resist-mass-surveillance-secure-your-online-communication-part-1/)
+*[Surveillance Self Defence](https://ssd.eff.org/en)
+*[Prism Break](https://prism-break.org/en/)
+*[Tor Project](https://www.torproject.org/)
+*[Queerzone3000](https://queerzone3000.net/resist-mass-surveillance-secure-your-online-communication-part-1/)
 
 
